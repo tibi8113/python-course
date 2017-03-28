@@ -1,0 +1,13 @@
+<!doctype html>
+<title>Renfe</title>
+<body>
+    {% if stations %}
+    <h1>
+        {% for s in stations %}
+            <li>{{s}}</a></li>
+        {% endfor %}    
+    </h1>
+    {% else %}
+    <h1>No stations!</h1>
+    {% endif %}
+</body>
