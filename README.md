@@ -4,4 +4,4 @@
 [Python doc](beginners_python_cheat_sheet_pcc_all.pdf)
 
 ### Mini Projects
-[Mini Projects](miniprojects/renfe)
+ - [Renfe](miniprojects/renfe)
