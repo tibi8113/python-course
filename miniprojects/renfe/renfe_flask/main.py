@@ -32,6 +32,31 @@ def getopc():
     return session["opc"]
 
 
+# set the departure station
+@app.route("/setstationdeparture/<opc>")
+def setstationdeparture(opc):
+    session["stationdeparture"] = opc
+    return "Your departure station is " + opc
+
+# get the departure station
+@app.route("/getstationdeparture")
+def getstationdeparture():
+    return session["stationdeparture"]
+
+
+# set the target station
+@app.route("/setstationtarget/<opc>")
+def setstationtarget(opc):
+    session["setstationtarget"] = opc
+    return "Your target station is " + opc
+
+
+# get the departure station
+@app.route("/getstationtarget")
+def getstationtarget():
+    return session["setstationtarget"]
+
+
 # get all stations
 @app.route("/stations")
 @app.route("/stations/<zone>")

@@ -4,7 +4,10 @@
     {% if stations %}
     <h1>
         {% for s in stations %}
-            <li>{{s}}</a></li>
+            {# <li>{{s}}</a></li> #}
+            <form action="/setstationdeparture/{{s}}">
+                <button type="submit">{{s}}</button> 
+            </form>
         {% endfor %}    
     </h1>
     {% else %}
