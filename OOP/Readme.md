@@ -1,0 +1,3 @@
+- http://python-textbok.readthedocs.io/en/1.0/Classes.html
+- http://python-textbok.readthedocs.io/en/1.0/Object_Oriented_Programming.html
+- https://docs.python.org/3/tutorial/classes.html
