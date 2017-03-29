@@ -6,5 +6,5 @@
 ### Mini Projects
  - [Renfe](miniprojects/renfe)
 
-### OOP
+### Object Oriented Programming
  - [OOP Doc](OOP)
