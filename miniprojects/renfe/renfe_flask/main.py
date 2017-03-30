@@ -47,14 +47,14 @@ def getstationdeparture():
 # set the target station
 @app.route("/setstationtarget/<opc>")
 def setstationtarget(opc):
-    session["setstationtarget"] = opc
+    session["stationtarget"] = opc
     return "Your target station is " + opc
 
 
 # get the departure station
 @app.route("/getstationtarget")
 def getstationtarget():
-    return session["setstationtarget"]
+    return session["stationtarget"]
 
 
 # get all stations
@@ -84,7 +84,11 @@ def price(opc, station1, station2):
 
     return price
 
-
+# get price using session stored data
+@app.route("/price")
+def price2():
+    make a redirect session["opc"],session["stationdeparture"], session["stationtarget"]
+    #return p
 
 if __name__ == "__main__":
     app.run(host=os.getenv('IP', '0.0.0.0'),port=int(os.getenv('PORT', 5000)))
