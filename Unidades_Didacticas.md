@@ -5,7 +5,7 @@
     1. Identificar los bloques que componen la estructura de un programa informático.
     2. Crear proyectos de desarrollo de aplicaciones.
     3. Identificar los fundamentos de la POO.
-    4. Utilizar entornos integrados de desarrollo.
+    4. Utilizar entornos integrados de desarrollo.
     5. Identificar los distintos tipos de variables y la utilidad específica de cada uno.
     6. Modificar el código de un programa para crear y utilizar variables.
     7. Crear y utilizar constantes y literales.
