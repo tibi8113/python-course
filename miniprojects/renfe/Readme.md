@@ -1,4 +1,6 @@
 ## Metro (Renfe) ticket vending machine app
+- http://www.renfe.com/viajeros/cercanias/planos/sansebastian.html
+- http://www.renfe.com/viajeros/cercanias/sansebastian/abonos_y_descuentos/index.html
 
 1 - [With Files](renfe_with_files_v1)
 
