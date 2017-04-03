@@ -1,5 +1,5 @@
-## UD 0: Presentación del módulo. 2 h.
-## UD 1: Análisis de las fases en el desarrollo de un programa. Elementos de un programa. 20 h.
+## UD 0: Presentación del módulo.
+## UD 1: Análisis de las fases en el desarrollo de un programa. Elementos de un programa.
     Objetivos de aprendizaje:
     
     1. Identificar los bloques que componen la estructura de un programa informático.
@@ -13,7 +13,7 @@
     9. Comprobar el funcionamiento de las conversiones de tipo explícitas e implícitas.
     10. Utilizar la consola para realizar operaciones sencillas de entrada y salida de información
     11. Introducir comentarios en el código
-## UD 2: Estudio de los fundamentos de la programación orientada a objetos. 35 h.
+## UD 2: Estudio de los fundamentos de la programación orientada a objetos.
     Objetivos de aprendizaje:
     1. Escribir programas simples.
     2. Utilizar métodos y propiedades de los objetos.
@@ -21,7 +21,7 @@
     4. Utilizar el entorno integrado de desarrollo en la creación y compilación de programas simples.
     5. Reconocer la sintaxis, estructura y componentes típicos de una clase.
     6. Aplicar formatos en la visualización de la información.
-## UD 3: Estructuras de control, E/S estándar y gestión de ficheros. 35 h.
+## UD 3: Estructuras de control, E/S estándar y gestión de ficheros.
     Objetivos de aprendizaje:
     1. Escribir y probar código que haga uso de estructuras de selección.
     2. Utilizar estructuras de repetición.
@@ -31,7 +31,7 @@
     6. Recoger y mostrar datos desde y a ficheros dentro de un programa.
     7. Probar y depurar los programas.
     8. Comentar y documentar el código. 
-## UD 4: Desarrollo de la estructura de una aplicación basada en POO: Mecanismos de Abstracción y de Herencia. 55 h.
+## UD 4: Desarrollo de la estructura de una aplicación basada en POO: Mecanismos de Abstracción y de Herencia.
     Objetivos de aprendizaje:
     1. Definir y utilizar clases heredadas.
     2. Crear y utilizar métodos estáticos.
@@ -45,19 +45,19 @@
     10. Probar y depurar las jerarquías de clases.
     11. Realizar programas que implementen y utilicen jerarquías de clases.
     12. Comentar y documentar el código.
-## UD 5: Control de excepciones 30 h.
+## UD 5: Control de excepciones.
     Objetivos de aprendizaje:
     1. Escribir código utilizando control de excepciones
     2. Crear clases y métodos genéricos.
     3. Utilizar expresiones regulares en la búsqueda de patrones en cadenas de texto.
     4. Identificar las clases relacionadas con el tratamiento de documentos XML.
     5. Realizar programas que realicen manipulaciones sobre documentos XML.
-## UD 6: Desarrollo Servlets y JSPs. 23 h.
+## UD 6: Desarrollo Servlets y JSPs.
     Objetivos de aprendizaje:
     1. Identificar las características y métodos de petición/respuesta por http.
     3. Escribir código para poner en marcha pequñas aplicaciones web con java en el entorno del servidor.
     4. Crear aplicaciones para posibilitar la gestión de información presente.
-## UD 7: Control de acceso y mantenimiento de BD relacionales. 23 h.
+## UD 7: Control de acceso y mantenimiento de BD relacionales.
     Objetivos de aprendizaje:
     1. Identificar las características y métodos de acceso a sistemas gestores de bases de datos relacionales.
     2. Programar conexiones con bases de datos.
@@ -66,10 +66,10 @@
     5. Efectuar borrados y modificaciones sobre la información almacenada.
     6. Crear aplicaciones que ejecuten consultas sobre bases de datos.
     7. Crear aplicaciones para posibilitar la gestión de información presente en bases de datos relacionales.
-## UD 8: Paquete swing 16 h.
+## UD 8: Paquete swing.
     Objetivos de aprendizaje:
     1. Utilizar las herramientas del entorno de desarrollo para crear interfaces gráficos de usuario simples.
     2. Programar controladores de eventos.
     3. Escribir programas que utilicen interfaces gráficos para la entrada y salida de información
 
-## Proyecto final 26 h.
+## Proyecto final.
